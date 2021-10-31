@@ -20,7 +20,7 @@ namespace Pharmacy
                 CheckCredentials:
                 Extensions.Print(text.Get("inputUsrNm"), ConsoleColor.Green);
                 string username = Console.ReadLine();
-                Console.WriteLine(text.Get("inputPswd"));
+                Extensions.Print(text.Get("inputPswd"),ConsoleColor.Green);
                 string password = Console.ReadLine();
                 Extensions.Print(text.Get("checkCredentials"), ConsoleColor.Yellow);
                 Methods.Loading(language);
@@ -190,6 +190,7 @@ namespace Pharmacy
                                     }
                                     break;
                                 case 7:
+                                    isAdmin = false;
                                     goto CheckCredentials;
                             }
                         }

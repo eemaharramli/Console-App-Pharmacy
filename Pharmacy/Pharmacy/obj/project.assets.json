@@ -20,7 +20,7 @@
       "outputPath": "/Users/elnur/Desktop/OnlinePharmacy/Console-App-Pharmacy/Pharmacy/Pharmacy/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/elnur/.config/NuGet/NuGet.Config"
+        "/Users/elnur/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"

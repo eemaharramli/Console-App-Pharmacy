@@ -44,3 +44,18 @@ C:/Users/eemaharramli/Desktop/HW/Pharmacy-Console-App-main/Pharmacy-Console-App-
 /Users/elnur/Desktop/Project/Pharmacy-Console-App/Pharmacy-Console-App-main/Pharmacy-Console-App-main/Pharmacy Console Project/Pharmacy/Pharmacy/obj/Debug/net5.0/ref/Pharmacy.dll
 /Users/elnur/Desktop/Project/Pharmacy-Console-App/Pharmacy-Console-App-main/Pharmacy-Console-App-main/Pharmacy Console Project/Pharmacy/Pharmacy/obj/Debug/net5.0/Pharmacy.pdb
 /Users/elnur/Desktop/Project/Pharmacy-Console-App/Pharmacy-Console-App-main/Pharmacy-Console-App-main/Pharmacy Console Project/Pharmacy/Pharmacy/obj/Debug/net5.0/Pharmacy.genruntimeconfig.cache
+/Users/elnur/Desktop/OnlinePharmacy/Console-App-Pharmacy/Pharmacy/Pharmacy/bin/Debug/net5.0/Pharmacy.deps.json
+/Users/elnur/Desktop/OnlinePharmacy/Console-App-Pharmacy/Pharmacy/Pharmacy/bin/Debug/net5.0/Pharmacy.runtimeconfig.json
+/Users/elnur/Desktop/OnlinePharmacy/Console-App-Pharmacy/Pharmacy/Pharmacy/bin/Debug/net5.0/Pharmacy.runtimeconfig.dev.json
+/Users/elnur/Desktop/OnlinePharmacy/Console-App-Pharmacy/Pharmacy/Pharmacy/bin/Debug/net5.0/Pharmacy.dll
+/Users/elnur/Desktop/OnlinePharmacy/Console-App-Pharmacy/Pharmacy/Pharmacy/bin/Debug/net5.0/ref/Pharmacy.dll
+/Users/elnur/Desktop/OnlinePharmacy/Console-App-Pharmacy/Pharmacy/Pharmacy/bin/Debug/net5.0/Pharmacy.pdb
+/Users/elnur/Desktop/OnlinePharmacy/Console-App-Pharmacy/Pharmacy/Pharmacy/obj/Debug/net5.0/Pharmacy.csproj.AssemblyReference.cache
+/Users/elnur/Desktop/OnlinePharmacy/Console-App-Pharmacy/Pharmacy/Pharmacy/obj/Debug/net5.0/Pharmacy.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elnur/Desktop/OnlinePharmacy/Console-App-Pharmacy/Pharmacy/Pharmacy/obj/Debug/net5.0/Pharmacy.AssemblyInfoInputs.cache
+/Users/elnur/Desktop/OnlinePharmacy/Console-App-Pharmacy/Pharmacy/Pharmacy/obj/Debug/net5.0/Pharmacy.AssemblyInfo.cs
+/Users/elnur/Desktop/OnlinePharmacy/Console-App-Pharmacy/Pharmacy/Pharmacy/obj/Debug/net5.0/Pharmacy.csproj.CoreCompileInputs.cache
+/Users/elnur/Desktop/OnlinePharmacy/Console-App-Pharmacy/Pharmacy/Pharmacy/obj/Debug/net5.0/Pharmacy.dll
+/Users/elnur/Desktop/OnlinePharmacy/Console-App-Pharmacy/Pharmacy/Pharmacy/obj/Debug/net5.0/ref/Pharmacy.dll
+/Users/elnur/Desktop/OnlinePharmacy/Console-App-Pharmacy/Pharmacy/Pharmacy/obj/Debug/net5.0/Pharmacy.pdb
+/Users/elnur/Desktop/OnlinePharmacy/Console-App-Pharmacy/Pharmacy/Pharmacy/obj/Debug/net5.0/Pharmacy.genruntimeconfig.cache

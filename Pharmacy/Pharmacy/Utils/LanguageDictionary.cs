@@ -4,7 +4,6 @@ using Pharmacy.Models;
 
 namespace Pharmacy.Utils
 {
-    
     public class LanguageDictionary
     {
         public Language Language { get; set; }

@@ -7,7 +7,6 @@ namespace Pharmacy.Models
         public string Name { get; }
         private readonly int ID = new Random().Next();
         public DrugType Type { get; set; }
-
         public readonly double Price = new Random().NextDouble();
 
         public int Count { get; set; }

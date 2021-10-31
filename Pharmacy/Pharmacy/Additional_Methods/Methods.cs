@@ -5,6 +5,7 @@ namespace Pharmacy
 {
     public class Methods
     {
+        
         public static void Welcome(string language)
         {
             Thread.Sleep(1000);

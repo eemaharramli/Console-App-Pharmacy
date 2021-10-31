@@ -9,8 +9,7 @@ namespace Pharmacy.Models
         public string Name { get; }
         public readonly int ID = new Random().Next();
         public readonly List<Drug> Drugs;
-
-
+        
         public Pharmacy(string name)
         {
             this.Name = name;
