@@ -2,26 +2,13 @@
   <MonoDevelop.Ide.ItemProperties.Pharmacy PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Pharmacy/Program.cs">
     <Files>
-      <File FileName="Pharmacy/Program.cs" Line="37" Column="1" />
+      <File FileName="Pharmacy/Program.cs" Line="9" Column="9" />
     </Files>
-    <Pads>
-      <Pad Id="ProjectPad">
-        <State name="__root__">
-          <Node name="Pharmacy" expanded="True">
-            <Node name="Pharmacy" expanded="True">
-              <Node name="Program.cs" selected="True" />
-            </Node>
-          </Node>
-        </State>
-      </Pad>
-    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore>
-      <Breakpoint file="/Users/elnur/Desktop/Project/Pharmacy-Console-App/Pharmacy-Console-App-main/Pharmacy-Console-App-main/Pharmacy Console Project/Pharmacy/Pharmacy/Program.cs" relfile="Pharmacy/Program.cs" line="37" column="1" />
-    </BreakpointStore>
+    <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>

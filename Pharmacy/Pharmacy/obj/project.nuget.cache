@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WT8jJxuuOMdUDi+mYSPuqnak9RDGAU7CbMKtrjosQpGBnu1jK9fGl9OQnHDSlmPJ7xXn9YIyodqJHDaTlBVsqA==",
+  "dgSpecHash": "vA06XYE9hJ/7IrMqwlpyvCo+nt3H8mUOqZGVBdS7x21ihnvqh2DA3RSeHLu5TxnVSWkX5pBdxre8+0q9DKQpYA==",
   "success": true,
-  "projectFilePath": "/Users/elnur/Desktop/Project/Pharmacy-Console-App/Pharmacy-Console-App-main/Pharmacy-Console-App-main/Pharmacy Console Project/Pharmacy/Pharmacy/Pharmacy.csproj",
+  "projectFilePath": "/Users/elnur/Desktop/OnlinePharmacy/Console-App-Pharmacy/Pharmacy/Pharmacy/Pharmacy.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

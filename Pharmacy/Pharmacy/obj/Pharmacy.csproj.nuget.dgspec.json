@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/elnur/Desktop/Project/Pharmacy-Console-App/Pharmacy-Console-App-main/Pharmacy-Console-App-main/Pharmacy Console Project/Pharmacy/Pharmacy/Pharmacy.csproj": {}
+    "/Users/elnur/Desktop/OnlinePharmacy/Console-App-Pharmacy/Pharmacy/Pharmacy/Pharmacy.csproj": {}
   },
   "projects": {
-    "/Users/elnur/Desktop/Project/Pharmacy-Console-App/Pharmacy-Console-App-main/Pharmacy-Console-App-main/Pharmacy Console Project/Pharmacy/Pharmacy/Pharmacy.csproj": {
+    "/Users/elnur/Desktop/OnlinePharmacy/Console-App-Pharmacy/Pharmacy/Pharmacy/Pharmacy.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/elnur/Desktop/Project/Pharmacy-Console-App/Pharmacy-Console-App-main/Pharmacy-Console-App-main/Pharmacy Console Project/Pharmacy/Pharmacy/Pharmacy.csproj",
+        "projectUniqueName": "/Users/elnur/Desktop/OnlinePharmacy/Console-App-Pharmacy/Pharmacy/Pharmacy/Pharmacy.csproj",
         "projectName": "Pharmacy",
-        "projectPath": "/Users/elnur/Desktop/Project/Pharmacy-Console-App/Pharmacy-Console-App-main/Pharmacy-Console-App-main/Pharmacy Console Project/Pharmacy/Pharmacy/Pharmacy.csproj",
+        "projectPath": "/Users/elnur/Desktop/OnlinePharmacy/Console-App-Pharmacy/Pharmacy/Pharmacy/Pharmacy.csproj",
         "packagesPath": "/Users/elnur/.nuget/packages/",
-        "outputPath": "/Users/elnur/Desktop/Project/Pharmacy-Console-App/Pharmacy-Console-App-main/Pharmacy-Console-App-main/Pharmacy Console Project/Pharmacy/Pharmacy/obj/",
+        "outputPath": "/Users/elnur/Desktop/OnlinePharmacy/Console-App-Pharmacy/Pharmacy/Pharmacy/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/elnur/.nuget/NuGet/NuGet.Config"
+          "/Users/elnur/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
