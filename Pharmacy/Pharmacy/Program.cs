@@ -96,7 +96,10 @@ namespace Pharmacy
                                     }
 
                                     Extensions.Print(text.Get("inputDrugCount"), ConsoleColor.Yellow);
-                                    checkAnswer = int.TryParse(Console.ReadLine(), out int drugCount);
+                                    while (!int.TryParse(Console.ReadLine(), out drugCount))
+                                    {
+                                        Extensions.Print(text.Get("drugCountError"), ConsoleColor.Red);
+                                    }
                                     if (pharmacy.AddDrug(new Drug(drugName, new DrugType(drugType), drugCount)))
                                     {
                                         Extensions.Print(text.Get("newDrugMsg"), ConsoleColor.Green);
