@@ -9,6 +9,7 @@ namespace Pharmacy
         static void Main(string[] args)
         {
             bool isAdmin = false;
+            int drugCount;
             Extensions.Print("Please choose the language   eng / ru / aze", ConsoleColor.DarkYellow);
             string language = Console.ReadLine();
             Language lang = language.Equals("eng") ? Language.Eng : language.Equals("ru") ? Language.Rus : Language.Aze;
